@@ -1,7 +1,7 @@
 package aditya;
 
 /**
- * Hello world!
+ * Hello world! program
  *
  */
 public class App 
